@@ -1,0 +1,38 @@
+/* Navigation.css */
+
+.nav-container {
+  background-color: #333;
+  padding: 10px;
+
+  border-radius: 20px;
+}
+
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-link-item {
+  margin-right: 10px;
+}
+
+.nav-link-item a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.logout-button {
+  background-color: #f00;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  background-color: #c00;
+}

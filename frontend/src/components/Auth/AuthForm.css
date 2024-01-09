@@ -1,0 +1,42 @@
+/* AuthForm.css */
+
+.auth-form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .auth-form-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .auth-form-group {
+    margin-bottom: 10px;
+  }
+  
+  .auth-form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .auth-form-group input[type='text'],
+  .auth-form-group input[type='password'] {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  .auth-form-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .auth-form-button:hover {
+    background-color: #555;
+  }
+  

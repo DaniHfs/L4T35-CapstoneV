@@ -1,0 +1,9 @@
+/* App.css */
+.home-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+
+    background-color:aliceblue;
+    border-radius: 50px;
+}
